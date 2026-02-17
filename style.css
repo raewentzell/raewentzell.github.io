@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #FFEFF1;}
+
+.main-heading {
+  font-size: 48px;
+  margin-top: 20px; }
+
+#navbar {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 20px auto;
+  padding: 10px;
+  background-color: #ff99cc;
+  border: 2px solid #333;
+  border-radius: 10px;
+  max-width: 600px;}
+
+.nav-link {
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px; }
+.table-heading {
+  text-align: center;}
+
+#dogfact {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 60%;
+  text-align: center;}
+
+#dogfact th,
+#dogfact td {
+  border: 2px solid black;
+  padding: 10px;}
+
+#dogfact th {
+  background-color: #ffccdd;}
+
+
+.table-heading {
+  text-align: center; }
+
+.pug-table {
+  margin: 20px auto;   
+  border-collapse: collapse;
+  width: 60%;
+  text-align: center;}
+
+.pug-table th,
+.pug-table td {
+  border: 2px solid black;
+  padding: 10px;}
+
+.pug-table th {
+  background-color: #ffccdd; }
+
+.poodle-table {
+  margin: 20px auto;
+  border-collapse: collapse;
+  width: 60%;
+  text-align: center;}
+
+.poodle-table th,
+.poodle-table td {
+  border: 2px solid black;
+  padding: 10px;}
+
+.poodle-table th {
+  background-color: #ffccdd; 
+}
